@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.kutu{
+  padding: 12%;
+margin: 123px auto;
+border: 2px solid green;
+width: fit-content;
+height: "min-content";
+
+}
+
+.buton1{
+margin-bottom: 10%;
+
+}
